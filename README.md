@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Pandey</h1>
-<h3 align="center">A passionate BTech sophomore exploring the world of technology and innovation." 🚀</h3>
+<h3 align="center">A passionate BTech sophomore exploring the world of technology and innovation.🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saksham-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-pandey" />
@@ -32,18 +32,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saksham-pandey&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-## 🌟 Projects
-<!-- You can add your notable projects here -->
+## 🌟 Projects  
 
-## 🤝 Connect with me
+- **Ayura** 🌿 – A **Virtual Herbal Garden** designed to educate users about medicinal plants, integrating immersive UI and AI-driven insights. *(In Development)*  
+
+- **WellSphere** 🏥 – A **health and wellness platform** focusing on AI-driven personalized healthcare solutions and well-being tracking. *(In Development)*  
+
+- **White Wolves Esports** 🎮 – An **Esports and gaming community platform**, fostering tournaments, player analytics, and competitive engagement. *(In Development)*  
+
+- **Trendify** 📊 – A **trend analysis tool** where users can **upload their datasets** and receive **AI-driven insights** about their reach, engagement, and growth based on likes, comments, and other metrics. *(In Development)*  
+
+
+## 🤝 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/saksham-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-pandey" height="30" width="40" /></a>
-  <a href="https://github.com/saksham-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saksham-pandey" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saksham-pandey" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-pandey" height="30" width="40" />
+  </a>
+  <a href="https://x.com/your-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" />
+  </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-</p>
 
