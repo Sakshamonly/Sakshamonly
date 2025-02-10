@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saksham Pandey</h1>
-<h3 align="center">A passionate 2nd year BTech student</h3>
+<h3 align="center">A passionate BTech sophomore exploring the world of technology and innovation." 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saksham-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-pandey" />
 </p>
 
-## 🚀 About Me
-- 🎓 I'm currently in my 2nd year of BTech
-- 📫 How to reach me: **sp.saksham.com**
+## 🚀 About Me  
+- 🎓 I’m a **2nd-year BTech student at Bennett University**.  
+- 💻 Passionate about **Full Stack Development**, actively working on projects and improving my skills.  
+- 🤖 Exploring the world of **AI/ML**, learning and experimenting with new technologies.  
+- 📧 Email: **[sp.saksham2004@gmail.com](#)**  
 
 ## 🛠 Skills
 <p align="left">
