@@ -1,31 +1,47 @@
-![logo](https://github.com/Sakshamonly/Sakshamonly/blob/main/WhatsApp%20Image%202024-06-19%20at%2021.26.08_e165d75d.jpg)
+<h1 align="center">Hi 👋, I'm Saksham Pandey</h1>
+<h3 align="center">A passionate 2nd year BTech student</h3>
 
-<h1 align="center">Hi there 👋, I'm Saksham Pandey</h1>
-<h3 align="center">I'm currently a **2nd-year student**, passionate about **Full Stack Development** and actively learning **AI/ML**. 🚀  </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saksham-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-pandey" />
+</p>
 
-<img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/young-boy-coding-in-html-language-laptop-illustration-download-svg-png-gif-file-formats--logo-freelancer-development-pack-website-illustrations-3638119.png">
+## 🚀 About Me
+- 🎓 I'm currently in my 2nd year of BTech
+- 📫 How to reach me: **sp.saksham.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamonly&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamonly" /> </p>
-
-📧 Email: **sp.saksham2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🛠 Skills
 <p align="left">
-<a href="https://x.com/GamerguySaksham?t=GU2TgNb2u4hyuAOeTA-JPg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamerguysaksham" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saksham-pandey-546319282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/_sakshamonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sakshamonly" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-pandey&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamonly&show_icons=true&locale=en&layout=compact" alt="sakshamonly" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham-pandey&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamonly&show_icons=true&locale=en" alt="sakshamonly" /></p>
+## 🌟 Projects
+<!-- You can add your notable projects here -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamonly&" alt="sakshamonly" /></p>
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/saksham-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-pandey" height="30" width="40" /></a>
+  <a href="https://github.com/saksham-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saksham-pandey" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+</p>
+
